@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi there, I'm <a href="#" target="_blank">Daniil</a> 
+<h1 align="center">Hi there 👋, I'm <a href="#" target="_blank">Ratmir</a> 
 <img src="https://github.com/RatmirW/RatmirW/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
