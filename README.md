@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veezys&show_icons=true&theme=radical)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veezys&layout=&card_width=495&theme=radical)<br>
+
 <!--
 **RatmirW/RatmirW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
