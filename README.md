@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=compact&theme=radical)](https://github.com/RatmirW/github-readme-stats)<br>
+    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=compact&theme=radical)](https://github.com/RatmirW/github-readme-stats)
     </td>
     <td>
         <b>Core Skills</b><br>
