@@ -6,7 +6,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=compact&theme=radical)](https://github.com/RatmirW/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&theme=radical)](https://github.com/RatmirW/github-readme-stats)-->
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RatmirW&theme=radical)-->
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+<table>
+  <tr>
+    <td>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)</td>
+    <td>![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)</td>
+  </tr>
+</table>
+
+
 
 
 <!--
