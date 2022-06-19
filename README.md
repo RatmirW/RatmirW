@@ -2,7 +2,12 @@
 <!--<img src="https://github.com/RatmirW/RatmirW/raw/main/images/Hi.gif" height="32"/></h1>-->
 <h3 align="center">Computer science student</h3>
 
-[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=compact&theme=radical)](https://github.com/RatmirW/github-readme-stats)]<br>
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=compact&theme=radical)](https://github.com/RatmirW/github-readme-stats)<br>
 
 <b>Core Skills</b><br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
