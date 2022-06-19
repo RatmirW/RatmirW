@@ -2,12 +2,9 @@
 <!--<img src="https://github.com/RatmirW/RatmirW/raw/main/images/Hi.gif" height="32"/></h1>-->
 <h3 align="center">Computer science student</h3>
 
-Markdown  Less  Pretty
---- | --- | ---
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+ Tables        | Are           
+ ------------- |:-------------:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=compact&theme=radical)](https://github.com/RatmirW/github-readme-stats)<br>
 
