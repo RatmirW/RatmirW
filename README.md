@@ -3,8 +3,8 @@
 <h3 align="center">Computer science student</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=compact)](https://github.com/RatmirW/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW)](https://github.com/RatmirW/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=&card_width=495&theme=radical)<br>
+
+
 
 <!--
 **RatmirW/RatmirW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
