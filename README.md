@@ -19,6 +19,7 @@
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+ ------------------------------------------------------------------------------------------- |:-------------:
 
  
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=&card_width=495&theme=radical)<br>-->
