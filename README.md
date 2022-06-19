@@ -5,7 +5,7 @@
 <table>
  <tr>
   <td>
-    <img src="https://github.com/RatmirW/github-readme-stats" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=compact&theme=radical" alt="Top Langs" />
   </td>
   <td>
     <b>Core Skills</b><br>
@@ -23,6 +23,10 @@
   </td>
  </tr>
 </table>
+
+
+
+
 
 | -       | -           |
 | ------------- |:-------------:|
