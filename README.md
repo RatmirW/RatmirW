@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Ratmir</h1>
-<!--<img src="https://github.com/RatmirW/RatmirW/raw/main/images/Hi.gif" height="32"/></h1>-->
+<!--<img src="https://github.com/RatmirW/RatmirW/images/Hi.gif" height="32"/></h1>-->
 <h3 align="center">Computer science student</h3>
 
-<table>
+<table width="100%" border="0" cellspacing="0" cellpadding="2" style="display:none;">
  <tr>
   <td>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=compact&theme=radical" alt="Top Langs" />
