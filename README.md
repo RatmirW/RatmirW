@@ -3,11 +3,13 @@
 <h3 align="center">Computer science student</h3>
 
 <table>
-  
-  <tr>
-    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=compact&theme=radical)](https://github.com/RatmirW/github-readme-stats)</td>
-    <td></td
-  </tr>
+<tr>
+<td>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=compact&theme=radical)](https://github.com/RatmirW/github-readme-stats)</td>
+<td>
+
+</td
+</tr>
 </table>
 <b>Core Skills</b><br>
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
