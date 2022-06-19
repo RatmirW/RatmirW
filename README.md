@@ -2,7 +2,7 @@
 <!--<img src="https://github.com/RatmirW/RatmirW/images/Hi.gif" height="32"/></h1>-->
 <h3 align="center">Computer science student</h3>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="2" style="border: 0px solid red;">
+<table width="100%" border="10" cellspacing="0" cellpadding="2">
  <tr>
   <td>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=compact&theme=radical" alt="Top Langs" />
