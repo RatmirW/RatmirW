@@ -31,12 +31,12 @@
 <p></p>
 <p></p>
 <h3>Projects in Java</h3>
- <p><a href="https://github.com/RatmirW/">JavaCore</a></p>
- <p><a href="https://github.com/RatmirW/">Algorithms and Data structures</a></p>
- <p><a href="https://github.com/RatmirW/">Gradle/Maven</a></p>
- <p><a href="https://github.com/RatmirW/">Spring</a></p>
- <p><a href="https://github.com/RatmirW/">Hibernate</a></p>
- <p><a href="https://github.com/RatmirW/">Design Patterns</a></p>
+ <p><a href="https://github.com/RatmirW/JavaCore">JavaCore</a></p>
+ <p><a href="https://github.com/RatmirW/Algorithms-and-Data-structures">Algorithms and Data structures</a></p>
+ <p><a href="https://github.com/RatmirW/Gradle-Maven">Gradle/Maven</a></p>
+ <p><a href="https://github.com/RatmirW/Spring">Spring</a></p>
+ <p><a href="https://github.com/RatmirW/Hibernate">Hibernate</a></p>
+ <p><a href="https://github.com/RatmirW/Design-Patterns">Design Patterns</a></p>
  <p>-----------------------------------------------------------------------------</p>
  <p></p>
 <h3>Projects in C++</h3>
