@@ -3,11 +3,11 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
  <tr>
-  <td width="60%">
+  <td width="50%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&theme=radical" alt="Top Langs" />
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=compact&theme=radical" alt="Top Langs" />-->
   </td>
-  <td width="40%">
+  <td width="50%">
     <p style="text-align:center">Core Skills</p>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
