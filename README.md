@@ -27,13 +27,28 @@
   </td>
  </tr>
 </table>
-
+<p></p>
+<p></p>
 <h3>Projects in Java</h3>
-
+ <a href="https://github.com/RatmirW/">JavaCore</a>
+ <a href="https://github.com/RatmirW/">Algorithms and Data structures</a>
+ <a href="https://github.com/RatmirW/">Gradle/Maven</a>
+ <a href="https://github.com/RatmirW/">Spring</a>
+ <a href="https://github.com/RatmirW/">Hibernate</a>
+ <p></p>
 <h3>Projects in C++</h3>
-
+ <a href="https://github.com/RatmirW/cpp-module_008">Cpp_module_008</a>
+ <a href="https://github.com/RatmirW/">Ft_containers</a>
+ <a href="https://github.com/RatmirW/">WebServ</a>
+ <p></p>
 <h3>Projects in C</h3>
- 
+  <a href="https://github.com/RatmirW/libft">Libft</a>
+  <a href="https://github.com/RatmirW/get-next-line">Get-next-line</a>
+  <a href="https://github.com/RatmirW/printf">Printf</a>
+  <a href="https://github.com/RatmirW/so_long">So-long</a>
+  <a href="https://github.com/RatmirW/push_swap">Push-swap</a>
+  <a href="https://github.com/RatmirW/pipex">Pipex</a>
+  <a href="https://github.com/RatmirW/philosophers">Philosophers</a>
 
  
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=&card_width=495&theme=radical)<br>-->
