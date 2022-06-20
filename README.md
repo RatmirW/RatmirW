@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ratmir</h1>
-<!--<img src="https://github.com/RatmirW/RatmirW/images/Hi.gif" height="32"/></h1>-->
+<img src="https://github.com/RatmirW/RatmirW/blob/main/images/welcome.gif" height="32"/></h1>
 <h3 align="center">Computer science student</h3>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
