@@ -4,7 +4,6 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
  <tr>
   <td width="50%">
-    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=compact&theme=radical" alt="Top Langs" />
   </td>
   <td width="50%">
