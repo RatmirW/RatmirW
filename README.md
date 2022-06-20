@@ -41,8 +41,8 @@
  <p></p>
 <h3>Projects in C++</h3>
  <p><a href="https://github.com/RatmirW/cpp-module_008">Cpp_module_008</a></p>
- <p><a href="https://github.com/RatmirW/">Ft_containers</a></p>
- <p><a href="https://github.com/RatmirW/">WebServ</a></p>
+ <p><a href="https://github.com/RatmirW/Ft_containers">Ft_containers</a></p>
+ <p><a href="https://github.com/RatmirW/WebServ">WebServ</a></p>
  <p>-----------------------------------------------------------------------------</p>
  <p></p>
 <h3>Projects in C</h3>
