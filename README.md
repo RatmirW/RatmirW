@@ -1,13 +1,13 @@
-<h1 align="center">Hi there 👋, I'm Ratmir</h1>
-<!--<img src="https://github.com/RatmirW/RatmirW/images/Hi.gif" height="32"/></h1>-->
+<h1 align="center">Hi there <img src="https://github.com/RatmirW/RatmirW/blob/main/images/welcome.gif" height="32"/>, I'm Ratmir</h1>
 <h3 align="center">Computer science student</h3>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
  <tr>
-  <td width="60%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=compact&theme=radical" alt="Top Langs" />
+  <td width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&theme=radical" alt="Top Langs" />
+    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=compact&theme=radical" alt="Top Langs" />-->
   </td>
-  <td width="40%">
+  <td width="50%">
     <p style="text-align:center">Core Skills</p>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
@@ -31,18 +31,18 @@
 <p></p>
 <p></p>
 <h3>Projects in Java</h3>
- <p><a href="https://github.com/RatmirW/">JavaCore</a></p>
- <p><a href="https://github.com/RatmirW/">Algorithms and Data structures</a></p>
- <p><a href="https://github.com/RatmirW/">Gradle/Maven</a></p>
- <p><a href="https://github.com/RatmirW/">Spring</a></p>
- <p><a href="https://github.com/RatmirW/">Hibernate</a></p>
- <p><a href="https://github.com/RatmirW/">Design Patterns</a></p>
+ <p><a href="https://github.com/RatmirW/JavaCore">JavaCore</a></p>
+ <p><a href="https://github.com/RatmirW/Algorithms-and-Data-structures">Algorithms and Data structures</a></p>
+ <p><a href="https://github.com/RatmirW/Gradle-Maven">Gradle/Maven</a></p>
+ <p><a href="https://github.com/RatmirW/Spring">Spring</a></p>
+ <p><a href="https://github.com/RatmirW/Hibernate">Hibernate</a></p>
+ <p><a href="https://github.com/RatmirW/Design-Patterns">Design Patterns</a></p>
  <p>-----------------------------------------------------------------------------</p>
  <p></p>
 <h3>Projects in C++</h3>
  <p><a href="https://github.com/RatmirW/cpp-module_008">Cpp_module_008</a></p>
- <p><a href="https://github.com/RatmirW/">Ft_containers</a></p>
- <p><a href="https://github.com/RatmirW/">WebServ</a></p>
+ <p><a href="https://github.com/RatmirW/Ft_containers">Ft_containers</a></p>
+ <p><a href="https://github.com/RatmirW/WebServ">WebServ</a></p>
  <p>-----------------------------------------------------------------------------</p>
  <p></p>
 <h3>Projects in C</h3>
