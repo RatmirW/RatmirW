@@ -53,10 +53,10 @@
   <p><a href="https://github.com/RatmirW/push_swap">Push-swap</a></p>
   <p><a href="https://github.com/RatmirW/pipex">Pipex</a></p>
   <p><a href="https://github.com/RatmirW/philosophers">Philosophers</a></p>
+  <p>-----------------------------------------------------------------------------</p>
+  <p></p>
 <h3>Projects in SQL</h3>
  <p><a href="https://github.com/RatmirW/Piscine_SQL">Piscine_SQL</a></p>
- <p>-----------------------------------------------------------------------------</p>
- <p></p>
  
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=&card_width=495&theme=radical)<br>-->
 <!--![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&theme=radical)](https://github.com/RatmirW/github-readme-stats)-->
