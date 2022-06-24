@@ -5,6 +5,11 @@
             h1 {
                 color: red;
             }
+            div{
+                width: 500px;
+                height: 200px;
+                border: 1px solid red;
+            }
             </style>
             <h1>HELLO WORLD! </h1>
         </div>
