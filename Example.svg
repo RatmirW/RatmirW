@@ -15,18 +15,18 @@
                     width:50%;
                     background: blue;
                 }
-		@media (min-width: 0px) and (max-width: 300px) {
+		@media (min-width: 0px) and (max-width: 400px) {
 		    .container{
 		    	width: 100%;
 		    	background: white;
                 	}
                  	.one{
-                    width: 100%;
-                    background: green; 
+                    	width: 100%;
+                    	background: green; 
              		}
                		.two{
-                    width:100%;
-                    background: yellow;
+                    	width:100%;
+                    	background: yellow;
                 	}
             	}
             </style>
