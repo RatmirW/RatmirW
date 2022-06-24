@@ -5,7 +5,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
  <tr>
   <td colspan="2">
-   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4s0df2i008309mo043wwk3p/stats?cursusId=21&coalitionId=102" alt="ereed's 42 stats" /></a>
+   <p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4s0df2i008309mo043wwk3p/stats?cursusId=21&coalitionId=102" alt="ereed's 42 stats" /></a></p>
   </td>
  </tr>
  <tr>
