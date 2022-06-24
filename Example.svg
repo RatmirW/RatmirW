@@ -20,7 +20,7 @@
                 height: 100px;
               
             }
-            @media screen and (max-width: 480px){
+            @media screen and (min-width: 30em) and (orientation: landscape){
                 .wrapper{
                     display:block;
                     background: white;
