@@ -8,6 +8,7 @@
             .container{
                     display: flex;
                     width: 100vw;
+		    background: yellow; 
                 }
                  .one{
                     width: 50%;
