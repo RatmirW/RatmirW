@@ -7,6 +7,16 @@
                 width: 200px;
                 height: 100px;
             }
+            .boxOne{
+                background: green;
+                width: 100px;
+                height: 100px;
+            }
+            .boxTwo{
+                background: blue;
+                width: 100px;
+                height: 100px;
+            }
             </style>
             <div class="wrapper">
                 <div class="boxOne">text</div>
