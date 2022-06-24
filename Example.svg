@@ -19,7 +19,7 @@ div{
   height:50px;
   background:blue;
 }
-@media (min-width: 0) and (max-width: 600px){
+@media (min-width: 0) and (max-width: 599px){
   .wrapper{
       display:block;
       background: white;
