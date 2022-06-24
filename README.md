@@ -1,9 +1,5 @@
-<h1 align="center">Hi there <img src="https://github.com/RatmirW/RatmirW/blob/main/images/welcome.gif" height="32"/>, I'm <img src="Example.svg" width="400" height="400" alt="Ratmir"></h1>
+<h1 align="center">Hi there <img src="https://github.com/RatmirW/RatmirW/blob/main/images/welcome.gif" height="32"/>, I'm <img src="Example.svg" width="10" height="10" alt="Ratmir"></h1>
 <h3 align="center">Computer science student</h3>
-
-<div align="center">
-    <img src="Example.svg" width="400" height="400" alt="Ratmir">
-</div>
 
 
 
