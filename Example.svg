@@ -3,17 +3,18 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             	.container{
-                    display: flex;
-                    width: 100vw;
+		    width: 100%;
 		    background: yellow;
                 }
                 .one{
                     width: 50%;
-                    background: red; 
+                    background: red;
+		    float: left;
                	}
                	.two{
                     width:50%;
                     background: blue;
+		    float: right;
                 }
 		@media (min-width: 0px) and (max-width: 400px) {
 		    .container{
