@@ -25,7 +25,7 @@
   			}
   			.box1 {
     				width: 100%;
-    				float: right;
+    				float: left;
   			}
   			.box2 {
     				width: 100%;
