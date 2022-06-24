@@ -2,15 +2,13 @@
 <h3 align="center">Computer science student</h3>
 
 <div class="container">
+    <img src="Example.svg" width="200" height="200" alt=" ">
     <div class="one">
-        <img src="Example.svg" width="200" height="200" alt=" ">
+        <p>block1</p>
     </div>
     <div class="two">
-        <img src="Example.svg" width="200" height="200" alt=" ">
+        <p>block2</p>
     </div>
-</div>
-<div class="three">
-    <img src="Example.svg" width="200" height="200" alt=" ">
 </div>
 
 
