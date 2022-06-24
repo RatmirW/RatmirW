@@ -43,13 +43,13 @@
  <p><a href="https://github.com/RatmirW/Spring">Spring</a></p>
  <p><a href="https://github.com/RatmirW/Hibernate">Hibernate</a></p>
  <p><a href="https://github.com/RatmirW/Design-Patterns">Design Patterns</a></p>
- <p>-----------------------------------------------------------------------------</p>
+ <p>----------------------------------------------------------------------</p>
  <p></p>
 <h3>Projects in C++</h3>
  <p><a href="https://github.com/RatmirW/cpp-module_008">Cpp_module_008</a></p>
  <p><a href="https://github.com/RatmirW/Ft_containers">Ft_containers</a></p>
  <p><a href="https://github.com/RatmirW/WebServ">WebServ</a></p>
- <p>-----------------------------------------------------------------------------</p>
+ <p>----------------------------------------------------------------------</p>
  <p></p>
 <h3>Projects in C</h3>
   <p><a href="https://github.com/RatmirW/libft">Libft</a></p>
@@ -59,7 +59,7 @@
   <p><a href="https://github.com/RatmirW/push_swap">Push-swap</a></p>
   <p><a href="https://github.com/RatmirW/pipex">Pipex</a></p>
   <p><a href="https://github.com/RatmirW/philosophers">Philosophers</a></p>
-  <p>-----------------------------------------------------------------------------</p>
+  <p>----------------------------------------------------------------------</p>
   <p></p>
 <h3>Projects in SQL</h3>
  <p><a href="https://github.com/RatmirW/Piscine_SQL">Piscine_SQL</a></p>
