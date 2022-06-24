@@ -2,7 +2,13 @@
 <h3 align="center">Computer science student</h3>
 
 <div align="center">
-    <img src="Example.svg" width="400" height="400" alt=" ">
+    <img src="Example.svg" width="200" height="200" alt=" ">
+</div>
+<div align="center">
+    <img src="Example.svg" width="200" height="200" alt=" ">
+</div>
+<div align="center">
+    <img src="Example.svg" width="200" height="200" alt=" ">
 </div>
 
 
