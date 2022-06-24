@@ -4,7 +4,7 @@
             <style>
             h1 {
                 font-size: 70px;
-                color: white;
+                color: red;
             }
             </style>
             <h1>HELLO WORLD!</h1>
