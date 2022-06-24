@@ -8,7 +8,7 @@
             .container{
                     display: flex;
                     width: 100vw;
-		    background: yellow; 
+		    background: yellow;
                 }
                  .one{
                     width: 50%;
@@ -19,6 +19,22 @@
                     background: blue;
                 }
             }
+		@media (min-width: 992px) and (max-width: 1199.98px) {
+		    .container{
+                    display: flex;
+                    width: 100vw;
+		    background: white;
+                }
+                 .one{
+                    width: 100%;
+                    background: green; 
+               }
+               .two{
+                    width:100%;
+                    background: yellow;
+                }
+            }
+		}
             </style>
             	<div class="container">
 			<div class="one">text</div>
