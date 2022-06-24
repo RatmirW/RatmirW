@@ -3,7 +3,6 @@
 
 <img src="Example.svg" alt=" ">
 
-
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
  <tr>
   <td width="50%" class="tableOne">
