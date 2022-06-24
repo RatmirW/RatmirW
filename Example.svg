@@ -3,7 +3,12 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             	<style>
             		.wrapper{
-			
+			}
+			.box1{
+				background: red;
+			}
+			.box2{
+				background: yellow;
 			}
             	</style>
             	<div class="wrapper">
