@@ -6,17 +6,11 @@
                 color: red;
                 animation: mymove 2s infinite;
             }
-
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
-            }
             </style>
-            <h1>HELLO WORLD!</h1>
+            <div class="wrapper">
+                <div class="boxOne">text</div>
+                <div class="boxTwo">test</div>
+            </div>
         </div>
     </foreignObject>
 </svg>
