@@ -10,6 +10,11 @@
                 height: 200px;
                 border: 1px solid red;
             }
+            @media (min-width: 0px) and (max-width: 480px) {
+                div{
+                    background: blue;
+                }
+            }
             </style>
             <h1>HELLO WORLD! </h1>
         </div>
