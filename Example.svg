@@ -20,8 +20,8 @@
             }
             </style>
             <div class="wrapper">
-                <span class="boxOne"></span>
-                <span class="boxTwo"></span>
+                <span class="boxOne">test</span>
+                <span class="boxTwo">text</span>
             </div>
         </div>
     </foreignObject>
