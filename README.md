@@ -1,6 +1,5 @@
-<h1 align="center">Hi there <img src="https://github.com/RatmirW/RatmirW/blob/main/images/welcome.gif" height="32"/>, I'm Ratmir!</h1>
+<h1 align="center">Hi there <img src="https://github.com/RatmirW/RatmirW/blob/main/images/welcome.gif" height="32"/>, I'm Ratmir!<img src="Example.svg" width="800" height="400" alt="Click to see the source"></h1>
 <h3 align="center">Computer science student</h3>
-<img src="Example.svg" width="800" height="400" alt="Click to see the source">
 
 
 
