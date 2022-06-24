@@ -1,16 +1,7 @@
 <h1 align="center">Hi there <img src="https://github.com/RatmirW/RatmirW/blob/main/images/welcome.gif" height="32"/>, I'm Ratmir!</h1>
 <h3 align="center">Computer science student</h3>
 
-<div class="container">
-    <div class="one">
-        <p>block1</p>
-        <img src="Example.svg" width="200" height="200" alt=" ">
-    </div>
-    <div class="two">
-        <p>block2</p>
-        <img src="Example.svg" width="200" height="200" alt=" ">
-    </div>
-</div>
+<img src="Example.svg" width="200" height="200" alt=" ">
 
 
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
