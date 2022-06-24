@@ -21,7 +21,7 @@
             }
 		@media (min-width: 992px) and (max-width: 1199.98px) {
 		    .container{
-                    display: flex;
+                   
                     width: 100vw;
 		    background: white;
                 }
