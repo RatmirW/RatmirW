@@ -15,7 +15,7 @@
                     width:50%;
                     background: blue;
                 }
-		@media (min-width: 0px) and (max-width: 400px) {
+		@media (min-width: 0px) and (max-width: 300px) {
 		    .container{
 		    	width: 100%;
 		    	background: white;
