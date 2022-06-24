@@ -16,7 +16,7 @@
   height:50px;
   background:blue;
 }
-@media (min-width: 0) and (max-width: 599px){
+@media (min-width: 0) and (max-width: 350px){
   .wrapper{
       display:block;
       background: white;
