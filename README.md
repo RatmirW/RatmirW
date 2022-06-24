@@ -2,7 +2,7 @@
 <h3 align="center">Computer science student</h3>
 
 <div align="center">
-		<img src="Example.svg" width="800" height="400" alt="Click to see the source">
+    <img src="Example.svg" width="400" height="400" alt="css-in-readme">
 </div>
 
 
