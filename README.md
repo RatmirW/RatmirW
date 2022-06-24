@@ -1,6 +1,14 @@
 <h1 align="center">Hi there <img src="https://github.com/RatmirW/RatmirW/blob/main/images/welcome.gif" height="32"/>, I'm Ratmir!</h1>
 <h3 align="center">Computer science student</h3>
 
+<div align="center">
+	<br>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
+
 
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
  <tr>
