@@ -3,6 +3,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             .wrapper{
+                diplay
                 background: red;
                 width: 205px;
                 height: 100px;
@@ -19,8 +20,8 @@
             }
             </style>
             <div class="wrapper">
-                <div class="boxOne">text</div>
-                <div class="boxTwo">test</div>
+                <span class="boxOne"></span>
+                <span class="boxTwo"></span>
             </div>
         </div>
     </foreignObject>
