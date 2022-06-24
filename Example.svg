@@ -26,8 +26,26 @@
 }            
 </style>
             <div class="wrapper">
-                <div class="box1">test</div>
-                <div class="box2">text</div>
+                <div class="box1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&theme=radical" alt="Top Langs" /></div>
+                <div class="box2">
+                  <p style="text-align:center">Core Skills</p>
+                    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+                    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+                    <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" />
+                    <img src="https://github.com/RatmirW/RatmirW/blob/main/images/hibernate.png" alt="Hibernate" height="28"/>
+                    <p></p>
+                    <p style="text-align:center">Extra skills</p>
+                    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+                    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /><br>
+                    <p></p>
+                    <p style="text-align:center">Data Base</p>
+                    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+                    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" /><br>
+                    <p></p>
+                    <p style="text-align:center">Integrated Development Environment</p>
+                    <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" /><br>
+                    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" /><br>
+                </div>
             </div>
         </div>
     </foreignObject>
