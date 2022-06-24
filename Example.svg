@@ -3,19 +3,19 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             	.box1 {
-  			width: 100px;
+  			width: 50%px;
   			height: 100px;
   			background: red;
   			float: left;
 		}
 		.box2 {
-  			width: 100px;
+  			width: 50%;
   			height: 100px;
   			background: blue;
   			float: right;
 		}
 		.wrapper {
-  			max-width: 500px;
+  			max-width: 100%;
 		}
 		@media screen and (max-width:400) {
   			.wrapper {
