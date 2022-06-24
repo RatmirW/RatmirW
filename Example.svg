@@ -22,7 +22,7 @@
                     width:50%;
                     background: blue;
                 }
-           
+            }
             </style>
             <h1>HELLO WORLD! </h1>
         </div>
