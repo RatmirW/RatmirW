@@ -2,11 +2,7 @@
 <h3 align="center">Computer science student</h3>
 
 <div align="center">
-	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="Example.svg" width="200" height="200" alt="Click to see the source">
-	</a>
-	<br>
+    <img src="Example.svg" width="400" height="400" alt="css-in-readme">
 </div>
 
 
