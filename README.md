@@ -4,7 +4,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
  <tr>
   <td width="50%">
-    [![ereed's 42 stats](https://badge42.vercel.app/api/v2/cl1w95zdm004509l0xoepc7zn/stats?cursusId=21&coalitionId=103)](https://github.com/JaeSeoKim/badge42)
+    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4s0df2i008309mo043wwk3p/stats?cursusId=21&coalitionId=102" alt="ereed's 42 stats" /></a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&theme=radical" alt="Top Langs" />
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=compact&theme=radical" alt="Top Langs" />-->
   </td>
