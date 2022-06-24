@@ -10,12 +10,11 @@
                 height: 200px;
                 border: 1px solid red;
             }
-            @media screen and (max-width: 480px) {
-               .container{
+            .container{
                     display: flex;
                     width: 100vw;
                 }
-               .one{
+                 .one{
                     width: 50%;
                     background: red; 
                }
@@ -23,7 +22,7 @@
                     width:50%;
                     background: blue;
                 }
-            }
+           
             </style>
             <h1>HELLO WORLD! </h1>
         </div>
