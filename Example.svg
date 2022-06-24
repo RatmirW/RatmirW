@@ -10,7 +10,7 @@
                 height: 200px;
                 border: 1px solid red;
             }
-            @media (min-width: 0px) and (max-width: 280px) {
+            @media screen and (max-width: 480px) {
                 div{
                     background: blue;
                 }
