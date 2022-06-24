@@ -19,14 +19,17 @@
 		    .container{
 		    	width: 100%;
 		    	background: white;
+		     	display: flex;
                 	}
                  	.one{
                     	width: 100%;
                     	background: green; 
+		    	display: flex;
              		}
                		.two{
                     	width:100%;
                     	background: yellow;
+		    	display: flex;
                 	}
             	}
             </style>
