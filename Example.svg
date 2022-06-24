@@ -20,7 +20,7 @@
                 height: 100px;
               
             }
-            @media screen and (max-width: 400px){
+            @media screen and (max-width: 480px){
                 .wrapper{
                     display:block;
                     background: white;
