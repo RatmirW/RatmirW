@@ -10,13 +10,13 @@
             }
             .boxOne{
                 background: green;
-                width: 49%;
+                width: 50%;
                 height: 100px;
                 
             }
             .boxTwo{
                 background: blue;
-                width: 49%;
+                width: 50%;
                 height: 100px;
               
             }
