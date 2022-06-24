@@ -11,15 +11,17 @@
                 border: 1px solid red;
             }
             @media screen and (max-width: 480px) {
-                div{
+               .container{
+                    display: flex;
+                    width: 100vw;
+                }
+               .one{
+                    width: 50%;
+                    background: red; 
+               }
+               .two{
+                    width:50%;
                     background: blue;
-                }
-                .tableOne{
-                    width: 100%;
-                }
-                .tableTwo{
-                    width: 100%;
-                    background: yellow;
                 }
             }
             </style>
