@@ -1,8 +1,9 @@
 <h1 align="center">Hi there <img src="https://github.com/RatmirW/RatmirW/blob/main/images/welcome.gif" height="32"/>, I'm Ratmir</h1>
 <h3 align="center">Computer science student</h3>
 
-<div align="center">|text|</div>
-<div>|text2|</div>
+<div align="center">
+    <img src="Example.svg" width="400" height="400" alt="css-in-readme">
+</div>
 
 
 
