@@ -1,6 +1,10 @@
 <h1 align="center">Hi there <img src="https://github.com/RatmirW/RatmirW/blob/main/images/welcome.gif" height="32"/>, I'm Ratmir</h1>
 <h3 align="center">Computer science student</h3>
-
+<style>
+div{
+ margin:0 40;
+ }
+</style>
 <div>|text|</div>
 <div>|text2|</div>
 
