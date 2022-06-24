@@ -1,13 +1,13 @@
 <h1 align="center">Hi there <img src="https://github.com/RatmirW/RatmirW/blob/main/images/welcome.gif" height="32"/>, I'm Ratmir!</h1>
 <h3 align="center">Computer science student</h3>
 
-<div align="center">
+<div align="center" class="one">
     <img src="Example.svg" width="200" height="200" alt=" ">
 </div>
-<div align="center">
+<div align="center" class="two">
     <img src="Example.svg" width="200" height="200" alt=" ">
 </div>
-<div align="center">
+<div align="center" class="three">
     <img src="Example.svg" width="200" height="200" alt=" ">
 </div>
 
