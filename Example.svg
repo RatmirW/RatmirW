@@ -3,25 +3,27 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             .wrapper{
-                diplay
+                display:inline;
                 background: red;
-                width: 205px;
+                width: 100%;
                 height: 100px;
             }
             .boxOne{
                 background: green;
-                width: 100px;
+                width: 49%;
                 height: 100px;
+                
             }
             .boxTwo{
                 background: blue;
-                width: 100px;
+                width: 49%;
                 height: 100px;
+              
             }
             </style>
             <div class="wrapper">
-                <span class="boxOne">test</span>
-                <span class="boxTwo">text</span>
+                <div class="boxOne">test</div>
+                <div class="boxTwo">text</div>
             </div>
         </div>
     </foreignObject>
