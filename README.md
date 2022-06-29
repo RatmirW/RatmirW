@@ -66,7 +66,7 @@
  <p></p>
  <p></p>
  <p></p>
-  <img src="https://github-profile-trophy.vercel.app/?username=RatmirW&theme=onedark" alt="https://github.com/ryo-ma/github-profile-trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RatmirW&theme=onedark" alt="https://github.com/ryo-ma/github-profile-trophy" align="center"/>
  
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&layout=&card_width=495&theme=radical)<br>-->
 <!--![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatmirW&theme=radical)](https://github.com/RatmirW/github-readme-stats)-->
