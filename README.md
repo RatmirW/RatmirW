@@ -62,6 +62,7 @@
   <p></p>
 <h3>Projects in SQL</h3>
  <p><a href="https://github.com/RatmirW/Piscine_SQL">Piscine_SQL</a></p>
+ <p>----------------------------------------------------------------------</p>
  <p></p>
  <p></p>
  <p></p>
